@@ -18,7 +18,7 @@ const Feed = () => {
             <Menu updatePosts = {updatePosts}></Menu>
 
             {posts.map((p)=>(
-                <Block color ={p.color} caption={p.caption}/>
+                <Block color ={p.color}/>
             ))}
         </div>
     );
