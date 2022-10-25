@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hw4-alubbad/static/css/main.b6832693.css",
+    "main.js": "/hw4-alubbad/static/js/main.b8bd108b.js",
+    "static/js/787.263e14e4.chunk.js": "/hw4-alubbad/static/js/787.263e14e4.chunk.js",
+    "index.html": "/hw4-alubbad/index.html",
+    "main.b6832693.css.map": "/hw4-alubbad/static/css/main.b6832693.css.map",
+    "main.b8bd108b.js.map": "/hw4-alubbad/static/js/main.b8bd108b.js.map",
+    "787.263e14e4.chunk.js.map": "/hw4-alubbad/static/js/787.263e14e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6832693.css",
+    "static/js/main.b8bd108b.js"
+  ]
+}
